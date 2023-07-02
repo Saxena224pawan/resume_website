@@ -1,0 +1,269 @@
+{
+  "main":{
+      "imagebaseurl":"https://Saxena224pawan.github.io/",
+      "name": "Pawan Saxena",
+      "description":"Python || Machine Learning || Data Science || Deep Learning",
+      "role": "Senior Analyst - Data Scientist",
+      "bio":"I am currently employed as a Senior Analyst at Tiger Analytics where my day to day to job includes applying dfferent data science techniques to industrial project. ",
+      "resumeDownload": "https://drive.google.com/file/d/1lYFFrkwBzENJ2zbXELIsCZwCqoulU8jR/view?usp=sharing",
+      "image":"pawan_image.jpg",
+      "email": "saxenapawan224@gmail.com",
+      "phone": "(+91)-8171905563",  
+      "address":{
+        "street": "",
+        "city": "Etawah",
+        "zip":"206001",
+        "State": "U.P."
+      },
+      "website":"https://Saxena224pawan.github.io",
+      "social":[
+          {
+            "name":"linkedin",
+            "url":"https://www.linkedin.com/in/saxenapawan224/",
+            "className":"fa fa-linkedin"
+          },
+          {
+            "name":"github",
+            "url":"http://github.com/Saxena224pawan",
+            "className":"fa fa-github"
+          },
+          {
+            "name":"twitter",
+            "url":"https://twitter.com/PawanSa68367970",
+            "className":"fa fa-twitter"
+          },
+           {
+            "name":"skype",
+            "url":"http://skype.com/saxenapawan224",
+            "className":"fa fa-skype"
+          }
+        ]
+  },
+  "resume":{
+      "education":[
+        {
+          "school":"Bennett University",
+          "degree":"B.Tech in Computer Science & Engineering",
+          "graduated":"Jun 2020",
+          "ach":"CGPA :9.28"
+        }
+      ],
+      "work":[
+        {
+          "company":"Tiger Analytics",
+          "title":"Senior Analyst",
+          "years":"Sep 2021 - Present",
+          "description":"Key involvement in working in a team to apply various data science & machine learning techniques on a data science project\nProject#1: Sales Prediction\nApplying different data science steps from data cleaning, Exploratory Data Analysis (EDA), to model building on online sales dataset for a Fortune 500 IT client.\nAnalyzing the customer behavior to predict future sales for the client.\nDeveloping a module to automate the exploratory data analysis and data visualization using Matplotlib and Pandas.\nDeveloping a machine learning model to predict the sales for the client for 90 days as well as API for prediction using TensorFlow serving.\nProject#2: Legacy Code Migration\nWorked on migration of Legacy code to Oracle SQL code to increase performance and structure for a Fortune 500 insurance client.\nWrote SQL scripts to perform the Automated Testing activity.\nProject#3: Insurance Sales Estimation\nWrite Snowflake queries to perform data extraction from data warehouse.\nApply various data science steps from data cleaning, EDA using Pandas, NumPy, Seaborn etc. \nTrain the models for insurance sales predictions using H2O AutoML."
+  
+        },
+        {
+          "company":"GeeksForGeeks",
+          "title":"Technical Content Engineer",
+          "years":"Jan 2020 - Sep 2021",
+          "description":"Write more than 100 articles on topics related to artificial Intelligence, Deep Learning like many new state-of-the-art methods like R-CNN, YOLO, BERT, DeepFace etc. \n\n  <a href='https://auth.geeksforgeeks.org/user/pawangfg/articles'>Link for Articles</a>"
+  
+        },
+        {
+          "company":"Central Board of Secondary Education",
+          "title":"Data Analyst Intern",
+          "years":"May 2019 - July 2019",
+          "description":"Developed an application in Python that analyze the dataset provided by user, show statistical metrics, and visualize different charts (particularly for analyzing CBSE dataset)."
+        }
+      ],
+      "skillsDescription":"My skills here",
+      "skills":[
+        {
+          "name":"Python",
+          "level":"70%"
+        },
+        {
+          "name":"Java ",
+          "level":"60%"
+        },
+        {
+          "name":"Machine Learning",
+          "level":"80%"
+        },
+        {
+          "name":"Deep Learning",
+          "level":"80%"
+        },
+        {
+          "name":"NumPy/ Pandas",
+          "level":"70%"
+        },
+        {
+          "name":"Keras/ TensorFlow",
+          "level":"70%"
+        },
+        {
+          "name":"HTML5",
+          "level":"70%"
+        },
+        {
+          "name":"CSS3",
+          "level":"50%"
+        },
+        {
+          "name":"React JS",
+          "level":"50%"
+        }
+           ]
+      },
+      "portfolio":{
+       "projects": [
+        { 
+          "id" :1,
+          "title":"G-20 Stats",
+          "category":"A shiny dashboard for analyzing socio-economic factors",
+          "image":"g20stats.PNG",
+          "url":"https://pawan-saxena.shinyapps.io/G20Stats/"
+  
+        },
+        {  
+          "id" :2,
+          "title":"Mask R-CNN Flask",
+          "category":"A web app to recognize objects in image using Mask R-CNN",
+          "image":"maskrcnn.png",
+          "url":"https://github.com/Saxena224pawan/Mask-RCNN_flask"
+        },
+        {
+          "id" :3,
+          "title":"Frame-wise Face Recognition System",
+          "category":"A web app to recognize objects in image using Mask R-CNN",
+          "image":"face recognition.PNG",
+          "url":"https://github.com/Saxena224pawan/FrameWiseFaceRecognition"
+        },  
+        {   "id":4,
+          "title":"Action Recognition System",
+          "category":"Action Recognition System Using OpenPose and DeepSort",
+          "image":"actionrecogniton.PNG",
+          "url":"https://github.com/Saxena224pawan/action_recognition"
+        },
+        {   "id":5,
+          "title":"Robo Directory",
+          "category":"A web app that stores details of imaginary Robots. The App uses React and REST API",
+          "image":"robodirectory.PNG",
+          "url":"https://Saxena224pawan.github.io/robo_directory"
+        }
+
+      ],
+      "articles":[
+        {
+          "id" :0,
+          "title":"ResNet",
+          "category":"ResNet CNN model",
+          "image":"resnet.png",
+          "url":"https://www.geeksforgeeks.org/residual-networks-resnet-deep-learning/"
+  
+        },  
+      {
+          "id" :1,
+          "title":"Fast R-CNN",
+          "category":"Fast R-CNN Objet detection model",
+          "image":"fast-RCNN.png",
+          "url":"https://www.geeksforgeeks.org/fast-r-cnn-ml/"
+  
+        },
+        {
+          "id" :2,
+          "title":"OpenPose",
+          "category":"OpenPose Pose Estimation",
+          "image":"openpose.png",
+          "url":"https://www.geeksforgeeks.org/openpose-human-pose-estimation-method/"
+  
+        },
+        {
+          "id" :3,
+          "title":"YOLO:",
+          "category":"YOLO Object Detection",
+          "image":"yolo.PNG",
+          "url":"https://www.geeksforgeeks.org/yolo-you-only-look-once-real-time-object-detection/"
+  
+        },
+        {
+          "id" :4,
+          "title":"Face Recognition Using PCA",
+          "category":"Face Recognition Using Principal Componenet Analysis",
+          "image":"face_rec.png",
+          "url":"https://www.geeksforgeeks.org/ml-face-recognition-using-eigenfaces-pca-algorithm/"
+        },
+        {
+          "id" :5,
+          "title":"Variational Autoencoders",
+          "category":"Variational Autoencoders (Deep Learning Model)",
+          "image":"var_auto.jpg",
+          "url":"https://www.geeksforgeeks.org/variational-autoencoders/"
+        },
+        {
+          "id" :6,
+          "title":"Self-attention mechanism",
+          "category":"Self-attention mechanism in NLP",
+          "image":"self_attn.png",
+          "url":"https://www.geeksforgeeks.org/self-attention-in-nlp/"
+        }
+      ],
+      "certificates":[
+        {
+          "id" :0,
+          "title":"AWS Certified Cloud Practioner",
+          "category":"AWS CCP",
+          "image":"aws.jpg",
+          "url":"https://aw.certmetrics.com/amazon/public/verification.aspx"
+  
+        },  
+      {
+          "id" :1,
+          "title":"Databricks Certified Developer for Apache Spark 3",
+          "category":"Spark 3",
+          "image":"databricks.jpg",
+          "url":"https://credentials.databricks.com/c856588e-af00-4fb1-8a34-4953d671c39c#gs.2n3sxs"
+  
+        },
+        {
+          "id" :2,
+          "title":"Google Data Analytics",
+          "category":"Data Analysis",
+          "image":"google_data_analytics.jpg",
+          "url":"https://www.coursera.org/account/accomplishments/specialization/certificate/MNFBL3NXK786"
+  
+        },  
+      {
+          "id" :3,
+          "title":"IBM AI Engineering",
+          "category":"Artificial Intelligence",
+          "image":"ibmai.jpg",
+          "url":"https://www.coursera.org/account/accomplishments/specialization/certificate/8JL7Y2KCZSVD"
+  
+        },
+        {
+          "id" :4,
+          "title":"DeepLearning.AI TensorFlow Developer",
+          "category":"TF developer",
+          "image":"tf.jpg",
+          "url":"https://www.coursera.org/account/accomplishments/specialization/certificate/9YX2VXJG43RY"
+        },
+        {
+          "id" :5,
+          "title":"DAT213x: Analyzing Big Data with Microsoft R",
+          "category":"DAT213x",
+          "image":"edx.jpg",
+          "url":"https://courses.edx.org/certificates/9251ffe06e56441e99e10aa63fa44a67"
+        },
+        {
+          "id" :6,
+          "title":"The Complete 2020 Web Development Bootcamp",
+          "category":"Web Develoment",
+          "image":"udemy.jpg",
+          "url":"https://www.udemy.com/certificate/UC-d11584fd-8e72-4d7a-a60f-c044a5946279/"
+        },
+        
+        {
+          "id" :7,
+          "title":"Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)",
+          "category":"React App Develoment",
+          "image":"udemy2.jpg",
+          "url":"https://www.udemy.com/certificate/UC-933e6b5f-f837-4e4d-b6e0-3ca9133fdf03/"
+        }
+      ]
+  }}
